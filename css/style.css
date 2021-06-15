@@ -1,0 +1,61 @@
+html{font-family: 'Noto Sans KR', sans-serif;}
+    body,h1,img,h2,h3,p,ul,li{margin:0;}
+    /*body{overflow: hidden;}*/
+	h1{word-spacing: -1px;font-size: 1.6em;font-weight:200;}
+	h2{font-size: 2em;;word-spacing: -1px;font-weight:600;}
+	h3{font-size: 6em;line-height: 1.2;word-spacing: -1px;font-weight:900;}
+	h4{font-size: 3em;line-height: 1.2;word-spacing: -1px;font-weight:900;}
+    .p1{word-spacing: -1px;font-size: 1.6em;font-weight:300;}
+    .p2{word-spacing: -1px;font-size: 2.8em;font-weight:200;}
+    .p3{word-spacing: -1px;font-size: 1em;font-weight:300;}
+    .p4{word-spacing: -1px;font-size: 1em;font-weight:300;}
+    .p5{word-spacing: -1px;font-size: 1.4em;font-weight:300;}
+
+
+	mark
+	em{font-style: normal;}
+	nav ul{width:60px;height:44px;float: right;}
+	nav ul li{list-style-type: none;width: 30%;height: 60px;font-size: 2em;line-height: 1.2;word-spacing: -1px;font-weight:400;}
+    nav ul li a{display: block;text-decoration: none;}
+    li{list-style: none;text-decoration: none;}
+    a{ text-decoration: none; color: white; }
+    a:link{text-decoration: none;}
+    a:visited { text-decoration: none;}
+	a:hover{color:purple;transition: all 0.5s;}
+	img{display:block;}
+
+	.col-1{width: 16.66%}
+	.col-2{width: 33.33%}
+	.col-3{width: 50%}
+	.col-4{width: 66.66%}
+	.col-5{width: 83.32%}
+	.col-6{width: 100%}
+
+    #absb{position:absolute;width: 600px;left: calc(50% - 300px);top:calc(50% - 200px);}
+	#abs0{position: absolute;left: calc(50% - 200px);top:20px;text-align: center;}
+    #abs1{position: absolute;left: calc(50% - 170px);bottom:20px;text-align: center;}
+    #abs2{position: absolute;right: 20px;top:20px;text-align: center;}
+    #abs3{position: absolute;right: 20px;top:50px;text-align: center;}
+    #abs4{position: absolute;right: 20px;top:80px;text-align: center;}
+    #abs5{position: absolute;right: 20px;top:110px;text-align: center;}
+    #abs6{position: absolute;left: 20px;top:20px;text-align: left;}
+    #abs7{position: absolute;left: 20px;top:50px;text-align: left;}
+    #abs8{position: absolute;left: 20px;bottom:20px;text-align: left;}
+    #abs9{position: absolute;right: 20px;bottom:20px;text-align: right;}
+
+	.bg-none{background: none;}	
+	.bg-white{background: white;}
+	.bg-black{background: black;}
+	.h-200{height: 200px}
+	.h-400{height: 400px}
+	.h-600{height: 600px}
+	.h-800{height: 800px}
+	.h-1000{height: 1000px}
+	.h-1200{height: 1200px}
+	.h-1400{height: 1400px}
+	.h-1600{height: 1600px}
+	.h-1800{height: 1800px}
+	.text-white{color: white;}
+	.text-yellow{color: yellow;}
+	.text-red{color:red;}
+ 
